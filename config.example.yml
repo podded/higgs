@@ -1,0 +1,9 @@
+database:
+  URI: "mongodb://localhost:27017"
+  Database: "higgs"
+web:
+  UserAgent: "Crypta-Eve/Podded install (BUT I AM BAD AND HAVENT CHANGED DEFAULT UA)"
+  TimeoutSec: 10
+
+app:
+  MaxRoutines: 100

@@ -151,3 +151,17 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/go,linux,windows,intellij+all
+
+# production/testing config
+config.yml
+
+#built binaries
+higgs
+higgs.exe
+main
+main.exe
+cmd/higgs
+cmd/higgs.exe
+cmd/main
+cmd/main.exe
+
